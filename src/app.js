@@ -35,7 +35,7 @@ app.use(function (err, req, res, next) {
 });
 
 // check if run app.js directly
-if (require.main == module) {
+if (require.main === module) {
   app.listen(app.get("port"), function () {
     console.log(
       "Server start in " +
