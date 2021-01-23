@@ -1,3 +1,6 @@
+# ignore all modules download by npm
 node_modules/*
+# ignore nohup output
 nohup.out
+# ignore mysql database config
 src/config/db.js
