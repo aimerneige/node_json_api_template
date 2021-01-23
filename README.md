@@ -14,10 +14,8 @@ An simple template to build API with json format with nodejs and express.
 1. clone or create new repo with this
 2. edit the package.json with your information
 3. switch to your LICENSE
-4. install package with `npm install`
-5. create your routes in `src/routes`
-6. add your own routes in `app.js`
-7. start test your project with `node app.js`
+4. edit the README file
+5. start your project
 
 ## Deploy
 
