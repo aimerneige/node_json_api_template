@@ -15,7 +15,8 @@ An simple template to build API with json format with nodejs and express.
 2. edit the package.json with your information
 3. switch to your LICENSE
 4. edit the README file
-5. start your project
+5. create your `db.js` at `src/config`
+6. start your project
 
 ## Deploy
 
